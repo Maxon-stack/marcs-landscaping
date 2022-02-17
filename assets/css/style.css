@@ -8,11 +8,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
-
+.Hero-Btn-row{
+  display: block;
+  margin: 30px 0;
+}
 a {
   color: #009cea;
   text-decoration: none;
@@ -332,6 +336,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   color: #fff;
   background: #009cea;
+  margin-top: 10px;
 }
 #hero .btn-get-started:hover {
   background: #008bd1;
