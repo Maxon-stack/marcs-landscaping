@@ -9,9 +9,21 @@
 # General
 --------------------------------------------------------------*/
 
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+}
+.SpecialCard{
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.custom-Card{
+  display: flex;
+
+
+  text-align: center;
 }
 .Hero-Btn-row{
   text-align: center;
